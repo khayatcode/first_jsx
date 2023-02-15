@@ -7,7 +7,7 @@ function App() {
       <h1>Hello Dojo</h1>
       <h2>Things I need to do</h2>
       <ul>
-        <li>Learn React</li>
+        <li>Learn React and Angular</li>
         <li>Climb Mount Everest</li>
         <li>Run a marathon</li>
         <li>Workout</li>
